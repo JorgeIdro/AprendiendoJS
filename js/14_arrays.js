@@ -1,4 +1,4 @@
-// Arrays y arreglos para almacenar datos
+// Arrays y arreglos para almacenar datos y sus métodos
 
 const numeros = [10,20,30,40,50];
 
